@@ -1,4 +1,4 @@
-# Seminario de práctica empresarial
+# Seminario de práctica empresarial - Dia 1
 ## Presentador 
 ### Juan Carlos Correa C. - Coordinador General de Prácticas
 ## Personas a la practica
@@ -63,4 +63,26 @@ Cuatro pruebas
 - Informar cuando se finalice las pruebas
 - Se enviaran estas pruebas al correo inscrito en el formulario de inscripcion
 - Los resultados se envian el viernes de la semana en que se registro
-- 
+# Seminario en Aula
+## Ruta para la realizacion de la práctica empresarial
+### Fernando Lopez V. - Coordinador de practicas empresariales - practicas.ingenieria@uco.edu.co
+## Responsabilidad individual
+Reviso mi estado del pensum y ubico la materia para saber si estoy en condiciones que me habilitan a realizar la practica,
+Realizar el seminario de práctica empresarial y tener almenos el 80% de los creditos de la carrera listos
+## Hoja de vida
+El formato es institucional y es suministrado por el coordinador de prácticas. No debe usarse un formato distinto
+## Aplicacion de convocatorias:
+Algunas empresas empiezan a realizar el proceso de reclutamiento 6 meses de anticipacion, pero no es asi en todos los casos. por lo tanto es necesario ponerse en contacto con el coordinador
+### Formatos mas importantes que deben entregar en proceso de la practica
+- Afiliacion ARL
+- Copia contrato empresa
+- Acta de inicio DAFC 011
+Se debe enviar que es lo que se supone va hacer en la empresa para que le puedan asignar el asesor, cada 15 dias se reune un comite para revisar que es lo que va a hacer y el comite decide quien es el asesor apropiado
+Que se va a desarrollar y cuales son sus objetivos sus especificios, firmado por el jefe inmediato y por el asesor de la universidad
+Con una o ninguna materia para darle todo a la practica
+- Seguimiento y evaluacion DAFC 013
+El asesor va a ayudar a desarrollar y evaluar lo que logre
+El 50% depende la empresa, se pide que se evalue una semana antes de terminar la practica, formato que se debe diligenciar una semana antes de terminar la practica, el asesor hace un informe que vale un 30%, se tiene una reunion cada 8 dias de como va trabajando, sustentacion general de la practica, esta sustentacion se comineza al principio y al final de la practica.
+Por convenio en la Universidad son 6 meses, si la empresa quiere extenderlo esta debera realizar un contrato por aparte
+- Informe Final
+- Sustentacion final
