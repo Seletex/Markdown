@@ -39,3 +39,28 @@ No es cuestion de romper estructuras, sino saber que hacer con los pedazos
 - Poder especializarme en el trabajo
 - Conseguir trabajo para comprarme lo que quiera
 - Buscar estabilidad para proyectarme economicamente, laboralmente y con fines de pensamiento en el futuro
+### Que se espera de un Egresado Uconiano
+## Que sigue: ... Encientro con coordinadores
+Ingenierias M - 202
+Aplicacion de bateria psicologica
+Bateria autoaplicada
+## Pruebas Psicometricas
+### Se podra conocer a uno mismo:
+- Conocerte a ti mismo
+- Reforzar la CV
+- Tomar acciones efectivas
+Cuatro pruebas
+- Personalidad
+- Disc
+- Motivacion
+- Habilidades cognitivas
+### Que se necesita:
+- Responder en un lugar tranquilo
+- Asegurar conexion a internet
+- Contar con un computador para realizar estas pruebas
+- Disponer del tiempo necesario para completar las pruebas sin interrupcion
+- Contestar personalmente, sin indicadores o sugerencias
+- Informar cuando se finalice las pruebas
+- Se enviaran estas pruebas al correo inscrito en el formulario de inscripcion
+- Los resultados se envian el viernes de la semana en que se registro
+- 
