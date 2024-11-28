@@ -29,3 +29,8 @@ Responde a un fin. Tele = fin de contribuir
 ### Fe pública
 ¿Cual es la responsabilidad de los profesionales?
 TryHackMe, Paginas para retos de desarrollo, BeeCrowd y mas a buscar
+Miedos que se peuden tener en la práctica o en el trabajo:
+ - Que el jefe haga cambios a ultima hora
+ - Que la aplicacion empieze a fallar y la unica solucion sea reacelerlo
+ - Que empiezen a aplzar los pagos para luego desaparecer
+ - Que se apropien del trabajo de uno
